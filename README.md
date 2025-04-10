@@ -22,7 +22,7 @@ This portfolio is a representation of my journey as a penultimate-year software 
 ## Demo
 
 The live version of my portfolio website is hosted on Netlify.  
-Visit it here: [https://adityagarwal.netlify.app](https://itzaditya.netlify.app)
+Visit it here: [https://itzaditya.netlify.app](https://itzaditya.netlify.app)
 
 ### Screenshot
 ![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744242333/Screenshot_2025-04-10_051449_hjvi0z.png)
