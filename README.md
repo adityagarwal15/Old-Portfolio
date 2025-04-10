@@ -16,7 +16,7 @@ This portfolio is a representation of my journey as a penultimate-year software 
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, TweenMax
 - **Deployment**: [Netlify](https://itzaditya.netlify.app)
 
 ## Demo
@@ -25,10 +25,10 @@ The live version of my portfolio website is hosted on Netlify.
 Visit it here: [https://adityagarwal.netlify.app](https://itzaditya.netlify.app)
 
 ### Screenshot
-![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735073629/Screenshot_2024-12-25_021950_eznls8.png)
+![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744242333/Screenshot_2025-04-10_051449_hjvi0z.png)
 
 ### Walkthrough Video
-[![Portfolio Walkthrough](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735073629/Screenshot_2024-12-25_021950_eznls8.png)](https://res.cloudinary.com/dcf0cpuqf/video/upload/v1735073671/Portfolio_walkthrough_v2zpir.mp4)
+[![Portfolio Walkthrough](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744242333/Screenshot_2025-04-10_051449_hjvi0z.png)](https://res.cloudinary.com/dcf0cpuqf/video/upload/v1744243771/OLD_PORTFOLIO_VIDEO_beeasu.mp4)
 
 > Click the image above to watch the video!
 
