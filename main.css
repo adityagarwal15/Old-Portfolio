@@ -2,10 +2,10 @@
   --fonts-mondwest: "PP Mondwest", apple-system, sans-serif;
   --fonts-neueBit: "PP NeueBit", apple-system, sans-serif;
 --colors-primary: 
-  linear-gradient(145deg, #04082c, #1b1f4a, #303c8f),
-  radial-gradient(circle at 80% 20%, #5263f640, transparent),
-  radial-gradient(circle at 20% 80%, #5ef1f640, transparent);
---colors-primary-color: #04082c;
+   linear-gradient(135deg, #1e3c72, #2a5298, #a1c4fd),
+  radial-gradient(circle at 70% 30%, #c2e9fb40, transparent),
+  radial-gradient(circle at 30% 70%, #89f7fe30, transparent);
+--colors-primary-color: #1e3c72;
   --colors-background: 
   linear-gradient(135deg, #1e3c72, #2a5298, #a1c4fd),
   radial-gradient(circle at 70% 30%, #c2e9fb40, transparent),
