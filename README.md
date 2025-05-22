@@ -25,10 +25,10 @@ The live version of my portfolio website is hosted on Netlify.
 Visit it here: [https://itzaditya.netlify.app](https://itzaditya.netlify.app)
 
 ### Screenshot
-![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744242333/Screenshot_2025-04-10_051449_hjvi0z.png)
+![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744446695/Screenshot_2025-04-12_140119_g1fuqq.png)
 
 ### Walkthrough Video
-[![Portfolio Walkthrough](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744242333/Screenshot_2025-04-10_051449_hjvi0z.png)](https://res.cloudinary.com/dcf0cpuqf/video/upload/v1744243771/OLD_PORTFOLIO_VIDEO_beeasu.mp4)
+[![Portfolio Walkthrough](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744446695/Screenshot_2025-04-12_140119_g1fuqq.png)](https://res.cloudinary.com/dcf0cpuqf/video/upload/v1744243771/OLD_PORTFOLIO_VIDEO_beeasu.mp4)
 
 > Click the image above to watch the video!
 
