@@ -1,0 +1,22 @@
+{
+  "name": "Aditya Agarwal Portfolio",
+  "short_name": "Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2b2b2b",
+  "description": "Personal portfolio website for Aditya Agarwal showcasing projects, skills, and contact information.",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735244853/favicon_ka3ikk.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735244853/favicon_ka3ikk.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en"
+}
